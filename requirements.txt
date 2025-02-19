@@ -1,0 +1,5 @@
+PyQt6
+PyPDF2
+openpyxl
+python-docx
+python-pptx
